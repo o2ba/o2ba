@@ -1,11 +1,3 @@
-# Hey 👋, I'm Bade
-
-I do stuff with **Econonmics and Computers** 
-
-### Contact me
-- 📫 Email : contact@badieoubari.com
-- 💬 Discord : tonite#0407
-
 ### Languages and Tools 🛠 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
